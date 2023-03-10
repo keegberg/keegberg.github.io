@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+laurencraft.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.laurencraft.com	TRUE	/	FALSE	1999999999	_secure_session_id	5c475e2d961894cb92c2f92b9edc9a03
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	30cb98fa8b2ddb27a11f08ca48bc09d1
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZBbGNzaXF4UCtyakJ1N0dody84aUdwV3RGSWFvZS8yNjlhRkt3dnlsbGRZUGFwak5SVS8xZ3NWOTg4aWpiTUJGOXBDWEpYUmNOQUpqbXExVXFhZm9wdTZORmtibHBUZlZYMjFtcGRHVlMrUT0mOCt4YlZkTmZGZFoyS1N2Tmp3RkYwSHlPdnZjPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	0b727d22-4481-426e-8191-7ffaf267d60d"
+laurencraft.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22US%22%2C%22sale_of_data_region%22%3Afalse%7D
+www.laurencraft.com	TRUE	/	FALSE	1999999999	localization	US
+www.laurencraft.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+laurencraft.com	TRUE	/	FALSE	1999999999	_y	ef4c615a-1120-4e18-ba11-3f138e723a3f
+laurencraft.com	TRUE	/	FALSE	1999999999	_s	945c7ec0-4fd9-4d06-a9e1-8b7e431c6aa5
+laurencraft.com	TRUE	/	FALSE	1999999999	_shopify_y	ef4c615a-1120-4e18-ba11-3f138e723a3f
+www.laurencraft.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+laurencraft.com	TRUE	/	FALSE	1999999999	_shopify_s	945c7ec0-4fd9-4d06-a9e1-8b7e431c6aa5
+www.laurencraft.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
