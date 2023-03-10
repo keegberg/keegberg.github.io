@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/bracelets.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2020-11-25T20:13:07-06:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837911789615</id>
+    <published>2020-11-25T20:13:07-06:00</published>
+    <updated>2020-11-25T20:13:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/rayna-bangle"/>
+    <title>Rayna Bangle</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_8ed4e455-12cb-47fd-aeae-29314fd73834.png?v=1606356791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>18k rose gold diamond bangle in baguettes &amp; single diamonds. Magnetic clasp closure. Diamond carat weight is 0.75 carats. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837911789615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837804245039</id>
+    <published>2020-11-25T18:25:46-06:00</published>
+    <updated>2020-11-25T18:25:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diamond-tennis-bracelet"/>
+    <title>Diamond Tennis Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_0fe2b265-d1b1-485c-8229-62242d52a53e.png?v=1606350351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold all diamond tennis bracelet with marquis canter stone. Total diamond carat weight is 1.58 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837804245039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837766266927</id>
+    <published>2020-11-25T16:35:58-06:00</published>
+    <updated>2020-11-25T16:35:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/kira-bracelet"/>
+    <title>Kira Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_fcbef2e2-0843-4cfc-886d-f0d47c9ce790.png?v=1606343764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold pave diamond drop bracelet with an adjustable clasp to fit all wrist sizes. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837766266927</id>
+      <title>Default Title</title>
+      <s:price currency="USD">950.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837726617647</id>
+    <published>2020-11-25T14:59:49-06:00</published>
+    <updated>2020-11-25T14:59:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/lilah-diamond-bangle"/>
+    <title>Lilah Diamond Bangle</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_5da7e6c0-11a6-47ab-8988-2b0f307b5b7e.png?v=1606337995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold with diamonds. Diamond carat weight is 1.13 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837726617647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837622513711</id>
+    <published>2020-11-25T12:31:01-06:00</published>
+    <updated>2020-11-25T12:31:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/chloe-bangle"/>
+    <title>Chloe Bangle</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9d010d83-b3ee-428b-baeb-418ccd723016.png?v=1606329064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond bangle with magnetic clasp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837622513711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837609635887</id>
+    <published>2020-11-25T12:24:13-06:00</published>
+    <updated>2020-11-25T12:24:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/amaya-bracelet"/>
+    <title>Amaya Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_76960417-edb0-40bb-b707-fb6b32fb8cc7.png?v=1606328658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            2924.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold diamond bracelet. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837609635887</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2924.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837532401711</id>
+    <published>2020-11-25T11:43:47-06:00</published>
+    <updated>2020-11-25T11:43:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/good-vibes-ankle-bracelet"/>
+    <title>Good Vibes Ankle Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_7b3ba63a-b321-45d0-afd7-2986fabf30e6.png?v=1606326233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; pave diamond adjustable ankle bracelet. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle bracelet</s:tag>
+    <s:tag>diamond</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837532401711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837446123567</id>
+    <published>2020-11-25T11:01:00-06:00</published>
+    <updated>2020-11-25T11:01:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/good-vibes-bracelet"/>
+    <title>Good Vibes Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_43d3ccf4-521f-4e32-8dfd-2e9e3484f8cc.png?v=1606323665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            1856.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k yellow gold pave diamond bracelet with adjustable clasp. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837446123567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1856.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837420236847</id>
+    <published>2020-11-25T10:47:55-06:00</published>
+    <updated>2020-11-25T10:47:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/sienna-bracelet"/>
+    <title>Sienna Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_84bce78a-69c2-475b-8be8-b80c21834daf.png?v=1606322881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond bracelet with adjustable sizing clasp. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837420236847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836089462831</id>
+    <published>2020-11-24T19:45:23-06:00</published>
+    <updated>2020-11-24T19:45:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/peace-diamond-bracelet"/>
+    <title>Peace Diamond Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_323d885c-43da-489f-9faf-f2a3c410d6e7.png?v=1606268728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold diamond bracelet with adjustable clasp. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836089462831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">875.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1146741030959</id>
+    <published>2019-03-27T20:18:04-05:00</published>
+    <updated>2019-03-27T20:18:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/chaine-link-bracelet"/>
+    <title>Chaîne Link Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Chain-Link-Bracelet-2.jpg?v=1553735992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From my <em>Femme Fatale Collection</em>. <span>Robust masculinity</span> and <span>elegant femininity</span> collide here.</p>
+<p>Iced out in <strong>champagne diamonds</strong> and forged in <strong>black-rhodium silver</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1146741030959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1146688667695</id>
+    <published>2019-03-27T19:41:54-05:00</published>
+    <updated>2019-03-27T19:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/nailed-it-bracelet"/>
+    <title>Nailed It Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Nailed-It-Bracelet-2.jpg?v=1553733946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new-arrivals</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1146688667695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6231947524</id>
+    <published>2016-07-08T15:58:00-05:00</published>
+    <updated>2016-07-08T15:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/texans-bracelet"/>
+    <title>Corsica Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/texans_bracelet-2.jpg?v=1468012297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This statement bracelet is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <b>rainbow moonstone</b>, <strong>blue sapphires</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+<ul>
+<li>Diamond weight: 1.54cts</li>
+<li>Rainbow moonstone &amp; blue sapphires: 17.52tcw</li>
+<li>Made in India</li>
+<li>One of a kind</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6231947524</id>
+      <title>Texans Bracelet / Moonstone/Sapphire/Diamond / Blue</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807114820</id>
+    <published>2015-12-17T13:39:00-06:00</published>
+    <updated>2015-12-17T13:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/anila-bracelet"/>
+    <title>Anila Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/anilla-bracelet-1.png?v=1456931444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement bracelet is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>doublet blue opal</strong>, <strong>tanzanite</strong>, <strong>emeralds</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Clasp closure</li>
+<li>Doublet blue opal, tanzanite, emeralds, 62.44tcw</li>
+<li>Champagne diamonds, 6.14cts</li>
+<li>Made in India</li>
+<li>Fit: This item measures 2.125in (5.4cm) in length.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807114820</id>
+      <title>Anila Bracelet / Opal/Tanzanite/Emerald/Diamond / Silver/Gold</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3806917508</id>
+    <published>2015-12-17T13:37:00-06:00</published>
+    <updated>2015-12-17T13:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/amita-bracelet"/>
+    <title>Green with Envy Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/amita-bracelet-1_dddb7781-04af-4583-8222-71c52831dccf.png?v=1456933038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This statement bracelet is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>emeralds</strong>, <strong>blue sapphires</strong>, and stunning <strong>champagne diamonds</strong>.</span></p>
+<ul>
+<li>Clasp closure</li>
+<li>Emeralds &amp; blue sapphires, 63.0tcw</li>
+<li>Champagne diamonds, 10.02cts</li>
+<li>Made in India</li>
+<li>Fit: This item measures 2.25in (5.7cm) in length.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3806917508</id>
+      <title>Amita Bracelet / Emerald/Sapphire/Diamond / Silver/Gold</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051209092</id>
+    <published>2015-12-03T15:47:00-06:00</published>
+    <updated>2015-12-03T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/siren-bracelet"/>
+    <title>Siren Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Siren_Bracelet.jpg?v=1448824714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0b5394;">Seductive by beauty</span> and <span style="color: #cc0000;">deadly by nature</span>. Grab this from my <em>Femme Fatale Collection</em>.</p>
+<p><strong>Kyanite</strong> and <strong>champagne diamonds</strong>. <strong>Silver</strong> with <strong>black-rhodium</strong> finish and <strong>silver inlay</strong>.</p>
+<blockquote>
+<h6>My Siren bracelet will sway your yachting mates away...</h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051209092</id>
+      <title>Siren Bracelet / Kyanite/Diamond / Silver</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052252932</id>
+    <published>2015-12-03T15:39:00-06:00</published>
+    <updated>2015-12-03T15:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/bhangra-cuff"/>
+    <title>Bhangra Cuff</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Bhangra_Cuff.jpg?v=1448824576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No mirages in my <em>Saharan Excursion Collection</em>.</p>
+<p><strong>Colored umba sapphires</strong>, <strong>champagne diamonds</strong>,  <strong>silver </strong>with<strong> black-rhodium </strong>finish, and <strong>18-Karat yellow gold </strong>inlay.</p>
+<blockquote>
+<h6><span style="color: #bf9000;">This truly is a statement piece.</span></h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052252932</id>
+      <title>Bhangra Cuff / Diamond/Sapphire / Silver/Gold</title>
+      <s:price currency="USD">5800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051305604</id>
+    <published>2015-08-04T18:56:00-05:00</published>
+    <updated>2015-08-04T18:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/priory-cuff"/>
+    <title>Priory Cuff</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Priory_Cuff.jpg?v=1448824706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A breath taking cuff from my<em> Full Regalia Collection</em>.</p>
+<p><strong>Aqua marines</strong>, <strong>champagne diamonds</strong>, <strong>silver</strong> with<strong> black-rhodium finish</strong>, and <strong>18-Karat yellow gold</strong> inlay with double lobster clasp closure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051305604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/full-regalia-collection.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2016-07-08T17:09:00-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/6232162116</id>
+    <published>2016-07-08T17:09:00-05:00</published>
+    <updated>2016-07-08T17:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/naya-ring"/>
+    <title>Naya Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Naya_ring-1.jpg?v=1468016149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>aquamarine</strong>, <strong>kyanite</strong>, and stunning<strong> diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Aquamarine and kyanite, 12.71tcw</li>
+<li>Diamonds, .55cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized. </li>
+<li>One of a Kind</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6232162116</id>
+      <title>Naya Ring / Diamond/Aquamarine/Kyanite / Blue</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807678276</id>
+    <published>2015-12-17T13:34:00-06:00</published>
+    <updated>2015-12-17T13:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/anada-earrings"/>
+    <title>Anada Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/anada-earrings-1_43db27b1-4258-4fd7-9dc3-c2a6663705b3.png?v=1462077531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            3200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>These statement earrings are set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>opaque sapphires</strong> and stunning <strong>champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Opaque sapphires, 59.97tcw</li>
+<li>Champagne diamonds, 2.59cts</li>
+<li>Made in India</li>
+<li>Fit: This item measures 2.125in (5.4cm) in length.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807678276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052255044</id>
+    <published>2015-08-04T22:58:00-05:00</published>
+    <updated>2015-08-04T22:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/beckinsale-ring"/>
+    <title>Beckinsale Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r47.jpg?v=1448824578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            5200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An enormous <em>sapphire</em> cocktail ring from my<em> Full Regalia Collection.</em></p>
+<p><strong>Opaque XL orange sapphire</strong>, <strong>champagne diamonds</strong>, and <strong>silver </strong>with<strong> black-rhodium </strong>finish. <strong>18-Karat yellow gold </strong>backing and band. Sample size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052255044</id>
+      <title>Beckinsale Ring / Sapphire/Diamond / Silver/Gold</title>
+      <s:price currency="USD">5200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052233540</id>
+    <published>2015-08-04T22:51:00-05:00</published>
+    <updated>2015-08-04T22:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/capetian-ring"/>
+    <title>Capetian Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r7.jpg?v=1448824582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gorgeous creation from my<em> Full Regalia Collection</em>.</p>
+<p>This over the top ring is splashed in <strong>diamonds</strong>, <strong>pink sapphires</strong>, and <strong>18-Karat rose gold</strong><span style="color: #cc0000;">. <span style="color: #000000;">Sample size 7.</span></span></p>
+<blockquote>
+<h6>
+<span style="color: #cc0000;">Beware</span><em> this ring is to die for...</em>
+</h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052233540</id>
+      <title>Capetian Ring / Diamond/Sapphire / Gold</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052120452</id>
+    <published>2015-08-04T22:16:00-05:00</published>
+    <updated>2015-08-04T22:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/dower-earrings"/>
+    <title>Dower Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Dower_Earring-1.jpg?v=1448839069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Supportive means from my <em>Full Regalia Collection</em>.</p>
+<p><strong>Rose quartz</strong>,<strong> champagne diamonds</strong>, <strong>silver</strong> with <strong>black-rhodium </strong>finish, <strong>18-Karat yellow gold</strong> backing.</p>
+<blockquote>
+<p>These earrings represent a woman on the go.</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052120452</id>
+      <title>Dower Earrings / Quartz/Diamond / Silver/Gold</title>
+      <s:price currency="USD">2000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052062724</id>
+    <published>2015-08-04T21:58:00-05:00</published>
+    <updated>2015-08-04T21:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/fleur-ring"/>
+    <title>Fleur Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r46.jpg?v=1448824619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A true beauty from my <em>Full Regalia Collection</em>.</p>
+<p><strong>Ruby petals</strong> with <strong>champagne diamonds</strong>, <strong>yellow sapphires</strong>, <strong>18-Karat yellow gold</strong>, and <strong>silver</strong> with <strong>black-rhodium</strong> finish.</p>
+<p>Sample size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052062724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051581444</id>
+    <published>2015-08-04T19:52:00-05:00</published>
+    <updated>2015-08-04T19:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/humphrey-bass-affair-earrings"/>
+    <title>Humphrey-Bass Affair Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e37.jpg?v=1448824659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beauties are from my <em>Full Regalia Collection</em>.</p>
+<p><strong>White</strong>, <strong>yellow</strong>, and <strong>pink opals</strong>. <strong>C</strong><strong>hampagne diamonds</strong>, <strong>silver</strong> with <strong>black-rhodium</strong> finish, and <strong>18-Karat yellow gold</strong> backing.</p>
+<h6><em> Featured in Marie Claire Turkey.</em></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051581444</id>
+      <title>Humphrey-Bass Affair Earrings / Opal/Diamond / Silver/Gold</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051381444</id>
+    <published>2015-08-04T19:08:00-05:00</published>
+    <updated>2015-08-04T19:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/notting-order-earrings"/>
+    <title>Notting Order Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Notting_Order_Earrings.jpg?v=1448824700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only fit for that "<strong>it</strong>" girl in <em>Notting Hill</em>. These earrings are from my<em> Full Regalia Collection</em>.</p>
+<p><strong>Aquamarine</strong>, <strong>blue sapphire</strong>, <strong>champagne diamonds</strong>, and <strong>18-Karat gold</strong> make these darlings what they are.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051381444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051305604</id>
+    <published>2015-08-04T18:56:00-05:00</published>
+    <updated>2015-08-04T18:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/priory-cuff"/>
+    <title>Priory Cuff</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Priory_Cuff.jpg?v=1448824706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A breath taking cuff from my<em> Full Regalia Collection</em>.</p>
+<p><strong>Aqua marines</strong>, <strong>champagne diamonds</strong>, <strong>silver</strong> with<strong> black-rhodium finish</strong>, and <strong>18-Karat yellow gold</strong> inlay with double lobster clasp closure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051305604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051242500</id>
+    <published>2015-08-04T18:43:00-05:00</published>
+    <updated>2015-08-04T18:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/rothesay-earrings"/>
+    <title>Rothesay Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e11.jpg?v=1448824723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #cc0000;">Royalty</span> with an edge from my <em>Full Regalia Collection</em>.</p>
+<p><strong>Umba</strong>, <strong>pink sapphires</strong>, <strong>yellow sapphires</strong>, <strong>champagne diamonds</strong>, <strong>silver</strong> with <strong>black- rhodium</strong> finish, and <strong>18-Karat yellow gold</strong> backing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051242500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1050874244</id>
+    <published>2015-08-04T17:27:00-05:00</published>
+    <updated>2015-08-04T17:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/windsor-ring"/>
+    <title>Windsor Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r36.jpg?v=1448824746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This ring is made to order. From purchase date it will arrive to you within 4 to 6 weeks. </span></p>
+<p>Another royal ring from my<em> Full Regalia Collection</em>.</p>
+<p><span><strong>Grey moonstone</strong> surrounded by <strong>white diamonds</strong> and set in <strong>18-Karat white gold</strong>. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1050874244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

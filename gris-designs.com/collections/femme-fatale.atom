@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/femme-fatale.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2015-12-03T15:47:00-06:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051209092</id>
+    <published>2015-12-03T15:47:00-06:00</published>
+    <updated>2015-12-03T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/siren-bracelet"/>
+    <title>Siren Bracelet</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Siren_Bracelet.jpg?v=1448824714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0b5394;">Seductive by beauty</span> and <span style="color: #cc0000;">deadly by nature</span>. Grab this from my <em>Femme Fatale Collection</em>.</p>
+<p><strong>Kyanite</strong> and <strong>champagne diamonds</strong>. <strong>Silver</strong> with <strong>black-rhodium</strong> finish and <strong>silver inlay</strong>.</p>
+<blockquote>
+<h6>My Siren bracelet will sway your yachting mates away...</h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051209092</id>
+      <title>Siren Bracelet / Kyanite/Diamond / Silver</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052295812</id>
+    <published>2015-08-04T23:16:00-05:00</published>
+    <updated>2015-08-04T23:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/a-line-ring"/>
+    <title>A Line Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r37.jpg?v=1448824557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            3600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em> This ring is made to order. From purchase date it will arrive to you within 4 to 6 weeks. </em></p>
+<p>A blinged out line from my <em>Femme Fatale Collection.</em></p>
+<p>One neatly cut line of <strong>white diamonds</strong> set on a <strong>14-Karat gold</strong> bar.</p>
+<p><em>Sample size 6.5.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052295812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3600.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052093508</id>
+    <published>2015-08-04T22:08:00-05:00</published>
+    <updated>2015-08-04T22:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/edge-of-glory-earrings"/>
+    <title>Edge of Glory Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e16.jpg?v=1456459602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fascinating pair is from my <em>Femme Fatale Collection</em>.</p>
+<p><strong>Rutliated quartz</strong> with <strong>champagne diamonds</strong> all around. <strong>Silver</strong>, <strong>black-rhodium </strong>finish, and <strong>18-Karat yellow gold</strong> backing.</p>
+<blockquote>
+<h6>Worn by Carrie Preston at Critics' Choice TV Awards June 2012.</h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052093508</id>
+      <title>Edge of Glory Earrings / Quartz/Diamond / Silver/Gold</title>
+      <s:price currency="USD">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052076292</id>
+    <published>2015-08-04T22:03:00-05:00</published>
+    <updated>2015-08-04T22:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/era-ring"/>
+    <title>Era Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Era_Ring_LCU1-1-1.jpg?v=1448824612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From my<em> Femme Fatale Collection</em>. This extraterrestrial ring lends wonder to the wearer.</p>
+<p><strong>Three stacked moonstones</strong>, <strong>champagne diamonds</strong>, <strong>black-rhodium silver</strong>, and an <strong>18-Karat yellow gold</strong> band complete this creation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052076292</id>
+      <title>Era Ring / Moonstone/Diamond / Silver/Gold</title>
+      <s:price currency="USD">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051329476</id>
+    <published>2015-08-04T19:00:00-05:00</published>
+    <updated>2015-08-04T19:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/pave-bow-ring"/>
+    <title>Pavé Bow Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r5.jpg?v=1448824708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Something sweet from my <em>Femme Fatale Collection</em>. Make a statement with this blinged out bow at any occasion. </p>
+<p><strong>White diamonds</strong> and <strong>14-Karat white gold</strong>. Sample size 6.5. </p>
+<h6>Featured in InStyle March 2012 on Rose Byrne and Ocean Drive March 2012 on Nicole Richie.</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051329476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

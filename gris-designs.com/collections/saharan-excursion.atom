@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/saharan-excursion.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2016-07-08T16:28:00-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/6232033540</id>
+    <published>2016-07-08T16:28:00-05:00</published>
+    <updated>2016-07-08T16:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/menisha-ring"/>
+    <title>Menisha Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/menisha_ring.jpg?v=1468013870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>spinel</strong>, <strong>blue sapphire</strong>, <strong>pink tourmalines</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Spinel, blue sapphire, and pink tourmalines, 4.47tcw</li>
+<li>Champagne diamonds, .47cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized. </li>
+<li>One of a kind </li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6232033540</id>
+      <title>Menisha Ring / Spinel/Sapphire/Tourmaline/Diamond / Pink/Blue</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052252932</id>
+    <published>2015-12-03T15:39:00-06:00</published>
+    <updated>2015-12-03T15:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/bhangra-cuff"/>
+    <title>Bhangra Cuff</title>
+    <s:type>Bracelets</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Bhangra_Cuff.jpg?v=1448824576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Bracelets<br>
+        <strong>Price: </strong>
+            5800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No mirages in my <em>Saharan Excursion Collection</em>.</p>
+<p><strong>Colored umba sapphires</strong>, <strong>champagne diamonds</strong>,  <strong>silver </strong>with<strong> black-rhodium </strong>finish, and <strong>18-Karat yellow gold </strong>inlay.</p>
+<blockquote>
+<h6><span style="color: #bf9000;">This truly is a statement piece.</span></h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052252932</id>
+      <title>Bhangra Cuff / Diamond/Sapphire / Silver/Gold</title>
+      <s:price currency="USD">5800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052264324</id>
+    <published>2015-08-04T23:03:00-05:00</published>
+    <updated>2015-08-04T23:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/ballawood-earrings"/>
+    <title>Ballawood Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/BallAwood_Earrings-1.jpg?v=1448824574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These enormous beauties are from my <em>Saharan Excursion Collection</em>.</p>
+<p><strong>Pink tourmaline</strong> and <strong>multicolored diamond </strong>disc earrings in<strong> silver </strong>with<strong> 18-Karat yellow gold </strong>posts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052264324</id>
+      <title>Ballawood Earrings / Tourmaline/Diamond / Silver/Gold</title>
+      <s:price currency="USD">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052124612</id>
+    <published>2015-08-04T22:17:00-05:00</published>
+    <updated>2015-08-04T22:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/double-finger-snake-ring"/>
+    <title>Double Finger Snake Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/062_03-21-13.jpg?v=1448824606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #bf9000;">Dress up your digits</span> with this double finger snake ring from my <em>Saharan Exursion Collection</em>.</p>
+<p><strong>Champagne diamonds</strong>, <strong>pink sapphires</strong>, <strong>clear quartz</strong>, <strong>silver</strong> with<strong> black-rhodium </strong>finish, and <strong>18-Karat yellow gold</strong> inlay.</p>
+<p>Sample size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052124612</id>
+      <title>Double Finger Snake Ring / Diamond/Sapphire/Quartz / Silver/Gold</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051410948</id>
+    <published>2015-08-04T19:13:00-05:00</published>
+    <updated>2015-08-04T19:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/miranda-earrings"/>
+    <title>Miranda Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Girlz_in_Sahara_Earrings.jpg?v=1448824697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous earrings from my<em> Saharan Excursion Collection</em>.</p>
+<p><strong>Tourmaline</strong> and <strong>multicolored diamond</strong> teardrop earrings set in <strong>rhodium</strong> and <strong>18-Karat yellow gold</strong> posts.</p>
+<h6><span style="color: #a64d79;"><em>Miranda Lambert wore these stunners during the 2012 Super Bowl!</em></span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051410948</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051263748</id>
+    <published>2015-08-04T18:48:00-05:00</published>
+    <updated>2015-08-04T18:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/rhodiupus-earrings"/>
+    <title>Rhodiupus&apos; Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e39.jpg?v=1448824715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A personal favorite from my <em>Saharan Excursion Collection</em>.</p>
+<p><strong>Citrine</strong>, <strong>colored diamonds</strong>, and <strong>18-Karat yellow gold</strong> backing.</p>
+<h6><span style="color: #bf9000;">A definite WOW piece!</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051263748</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051121668</id>
+    <published>2015-08-04T18:20:00-05:00</published>
+    <updated>2015-08-04T18:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/swag-bump-necklace"/>
+    <title>Swag Bump Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/n44.jpg?v=1448824730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Find this bump in my <em>Champagne Campaign Collection</em>.</p>
+<p>A huge bump covered in<strong> champagne diamonds</strong>. Finished in <strong>silver</strong>, <strong>black-rhodium</strong>. 16” <strong>14-Karat yellow gold</strong> oval link chain with lobster lock closure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051121668</id>
+      <title>Swag Bump Necklace / Diamond / Silver/Gold</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

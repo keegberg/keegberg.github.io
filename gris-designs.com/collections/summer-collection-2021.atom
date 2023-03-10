@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/summer-collection-2021.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2021-07-26T14:20:14-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/6747241283631</id>
+    <published>2021-07-26T14:20:14-05:00</published>
+    <updated>2021-07-26T14:20:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/camila-necklace"/>
+    <title>Camila Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_a67ea1d3-918a-4db7-b576-5bca0a595518.png?v=1627327218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gorgeous necklace is from the <em><strong>Summer Collection | 2021.</strong></em> Diamonds, 18k rose gold 18" chain with lobster lock closure. Diamond weight is 0.75 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>summercollection2021</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6747241283631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2205.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6747239284783</id>
+    <published>2021-07-26T14:08:20-05:00</published>
+    <updated>2021-07-26T14:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/off-the-chain-ring"/>
+    <title>Off the Chain Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_0c984988-a93e-49da-9b8c-8dd3eb3a7bcf.png?v=1627326505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from the <strong><em>Summer Collection | 2021</em></strong>. 18k rose gold &amp; diamonds. Diamond carat weight is 0.59 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>ring</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>summer collection 2021</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6747239284783</id>
+      <title>7</title>
+      <s:price currency="USD">2050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6744961646639</id>
+    <published>2021-07-19T10:43:59-05:00</published>
+    <updated>2021-07-19T10:43:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/astra-earrings"/>
+    <title>Astra Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_d1e5791d-4b99-4b39-abff-fd40fd83c246.png?v=1626709444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1920.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beauties are from the Summer Collection | 2021. Purple titanium &amp; diamonds. Diamond weight is 1.062 carats.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>hoops</s:tag>
+    <s:tag>summer collection 2021</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6744961646639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1920.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6744394956847</id>
+    <published>2021-07-17T11:28:02-05:00</published>
+    <updated>2021-07-17T11:28:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/arabella-necklace"/>
+    <title>Arabella Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_b6b8b2cd-eb91-4a3f-9208-3f33ce02b64d.png?v=1626539289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Iced out in pave diamonds, <em><strong>18k white gold with black rhodium finish </strong></em>with an adjustable chain and lobster lock closure. Chain adjusts from 18"- 22." Diamond weight is 0.424 carats. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black rhodium</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>summercollection2021</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6744394956847</id>
+      <title>Black Rhodium</title>
+      <s:price currency="USD">1900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6743719018543</id>
+    <published>2021-07-15T14:16:25-05:00</published>
+    <updated>2021-07-15T14:16:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/paper-clip-chain-bracelet"/>
+    <title>Paper Clip Chain Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_6c3b4b55-1a58-48b8-a197-34741aa12335.png?v=1626376593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            955.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This classic beauty is from the Summer Collection | 2021. 18k yellow gold &amp; secure round clasp closure with diamonds. Diamond weight weight is 0.8 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>yellow gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6743719018543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">955.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6743473094703</id>
+    <published>2021-07-14T14:56:12-05:00</published>
+    <updated>2021-07-14T14:56:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/cuban-link-diamond-bracelet"/>
+    <title>Cuban Link Diamond Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9bbe9b9d-d8bc-4492-817b-2a76f868c108.png?v=1626292576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is new to the Summer Collection | 2021. 18k rose gold, diamonds &amp; secure push bar box clasp. Diamond weight is 0.49 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6743473094703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6741763915823</id>
+    <published>2021-07-09T09:48:04-05:00</published>
+    <updated>2021-07-09T09:48:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/kyra-necklace"/>
+    <title>Kyra Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9d7e49e8-0ac2-4517-9b5f-e5b474f43f1e.png?v=1625842087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from my Summer | 2021 collection. Diamonds, 18k yellow gold 18" chain with lobster lock clasp. Diamond weight is 0.94 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6741763915823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6741716500527</id>
+    <published>2021-07-09T09:02:44-05:00</published>
+    <updated>2021-07-09T09:02:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/tranquility-necklace"/>
+    <title>Tranquility Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_52342423-4f94-4fd0-9d0c-fe724013b92b.png?v=1625839369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            755.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This blue rope symbolizes healing, peace, tranquility &amp; purity.</p>
+<p>A solitaire diamond set in an 18k yellow gold bezel, 18k yellow gold chain &amp; blue rope with an adjustable lobster lock clasp. Diamond weight of solitaire is 0.16 carats. </p>
+<p>Adjustable clasp to make the necklace 16", 18", 20" or 22" inches long. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:tag>string</s:tag>
+    <s:tag>yellow gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6741716500527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">755.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6740319010863</id>
+    <published>2021-07-07T11:44:53-05:00</published>
+    <updated>2021-07-07T11:44:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/baylin-ring"/>
+    <title>Baylin Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_09ce8d8f-7e44-4750-b2e9-783a8491ccf1.png?v=1625676435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1985.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from my Spring Collection | 2021.  18k rose gold &amp; diamonds. Diamond weight is 0.76 carats. Size 6. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6740319010863</id>
+      <title>6</title>
+      <s:price currency="USD">1985.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6565609472047</id>
+    <published>2021-05-07T14:19:23-05:00</published>
+    <updated>2021-05-07T14:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/cigar-band-ring"/>
+    <title>Giselle Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_c6fed76b-1173-4b68-a779-643f66da7c6b.png?v=1620415167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1035.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New to the Spring Collection| 2021. 14k rose gold &amp; diamonds. Size 6. Diamond weight: 0.51 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6565609472047</id>
+      <title>6</title>
+      <s:price currency="USD">1035.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6543622078511</id>
+    <published>2021-03-10T16:07:02-06:00</published>
+    <updated>2021-03-10T16:07:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/tennis-bracelet"/>
+    <title>Diamond Tennis Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_a7573c29-db1d-4d71-97c3-95c36da286f2.png?v=1615414027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from the new Spring Collection | 2021.</p>
+<p>18k rose gold &amp; diamonds with a secure clasp closure. Diamond weight is 1.46 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>tennis bracelet</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6543622078511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6543608217647</id>
+    <published>2021-03-10T15:22:06-06:00</published>
+    <updated>2021-03-10T15:22:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/stackable-half-way-diamond-band"/>
+    <title>Stackable Half Way Diamond Band</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_d72c9a0c-7329-4db0-bf50-77702f4c3640.png?v=1615411330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            645.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This chic everyday 18k yellow gold half diamond band can be worn alone or stacked with other diamond bands for a stunning look. Diamond weight is 0.14 carats. </p>
+<p>This ring can be customized to be made in 18k rose gold or 18k white gold in any size! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>band</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>yellow gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6543608217647</id>
+      <title>7</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4884056539183</id>
+    <published>2021-01-31T11:16:24-06:00</published>
+    <updated>2021-01-31T11:16:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/ruby-ring-1"/>
+    <title>Ruby &amp; Diamond Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_e4c25549-6caa-4e23-bc39-a44cb68fc2b3.png?v=1612113554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from the Valentine's Day | 2021 Collection. Rubies &amp; diamonds set in 18k white gold. Total diamond weight is 0.23 carats &amp; stone weight is 0.45 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>ring</s:tag>
+    <s:tag>rubies</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4884056539183</id>
+      <title>6</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4884055719983</id>
+    <published>2021-01-31T11:07:58-06:00</published>
+    <updated>2021-01-31T11:07:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/ruby-diamond-bracelet"/>
+    <title>Scarlet Bangle</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_67693b2b-4b00-4827-bcf6-f4f2a5620e48.png?v=1612112886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3488.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from the Valentine's Day | 2021 Collection. Rubies &amp; diamonds set in 18k white gold. Total diamond weight is 0.95 carats &amp; ruby weight is 1.25 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelet</s:tag>
+    <s:tag>diamond</s:tag>
+    <s:tag>ruby</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4884055719983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3488.88</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4863517130799</id>
+    <published>2020-12-16T14:55:07-06:00</published>
+    <updated>2020-12-16T14:55:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/leighton-earrings"/>
+    <title>Leighton Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_4a7fd8bb-7979-40d3-81e7-6710e05e644a.png?v=1608152114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold diamond pear &amp; baguette earrings. Total diamond carat weight is 2.15 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4863517130799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4862963154991</id>
+    <published>2020-12-15T16:54:40-06:00</published>
+    <updated>2020-12-15T16:54:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/ruby-bracelet"/>
+    <title>Ruby Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_e90c0674-fdc9-472c-bfc2-f7ab43a861a2.png?v=1608072887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant piece is from the new Winter|2020 Collection. 18k white gold, diamonds &amp; ruby. Total diamond carat weight is 0.85 carats. Total ruby weight is 0.62 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>Ruby&apos;s</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4862963154991</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3339.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4862910398511</id>
+    <published>2020-12-15T14:42:49-06:00</published>
+    <updated>2020-12-15T14:42:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/amuroa-bracelet"/>
+    <title>Amoura Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_0d7a61f0-2206-4f85-8693-9d54f1a50cd9.png?v=1608064976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is from the new Winter|2020 collection! 18k white gold &amp; diamonds. Total diamond carat weight is 0.64 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bracelets</s:tag>
+    <s:tag>diamonds</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4862910398511</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4860233547823</id>
+    <published>2020-12-10T17:53:54-06:00</published>
+    <updated>2020-12-10T17:53:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/first-lady-diamond-band"/>
+    <title>First Lady Diamond Eternity Band</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_92241fac-1f6d-4f27-9b55-c69c9657e366.png?v=1607644440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beauty is a part of the new Winter|2020 collection! 18k white gold &amp; diamonds. Size 7. Total diamond carat weight is 3.36 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4860233547823</id>
+      <title>7</title>
+      <s:price currency="USD">10800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4860226633775</id>
+    <published>2020-12-10T17:39:24-06:00</published>
+    <updated>2020-12-10T17:39:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/first-lady-tennis-bracelet"/>
+    <title>First Lady Tennis Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_cf38ae98-dc5a-48a6-9f01-f77519e9ba63.png?v=1607643569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stunning tennis bracelet is a part of the new Spring | 2021 collection! 18k white gold &amp; diamonds with a secure clasp closure. Total diamond carat weight is 5.58 carats.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4860226633775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4860173353007</id>
+    <published>2020-12-10T15:30:25-06:00</published>
+    <updated>2020-12-10T15:30:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/loren-ring"/>
+    <title>Loren Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_a8058ed8-33ea-4ac4-b897-cf31a60f86e7.png?v=1607635832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold ring set in diamonds. Size 7. Total diamond carat weight is 0.35 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4860173353007</id>
+      <title>7</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4860053815343</id>
+    <published>2020-12-10T10:34:48-06:00</published>
+    <updated>2020-12-10T10:34:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/stella-necklace-1"/>
+    <title>Riley Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9eef6d5b-893a-4ecb-b107-edcfc79ea20a.png?v=1607618111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; diamond necklace. Adjustable clasp to make the chain length 16" or 18" inches long. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>necklaces</s:tag>
+    <s:tag>rosegold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4860053815343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">840.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4859491942447</id>
+    <published>2020-12-09T11:59:01-06:00</published>
+    <updated>2020-12-09T11:59:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diana-ring"/>
+    <title>Diana Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_7d819402-69a0-44c9-8280-cacb5f35e183.png?v=1607536750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4942.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond &amp; emerald eternity ring. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4859491942447</id>
+      <title>7</title>
+      <s:price currency="USD">4942.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4853151662127</id>
+    <published>2020-12-02T10:57:05-06:00</published>
+    <updated>2020-12-02T10:57:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/leia-ring"/>
+    <title>Leia Ring</title>
+    <s:type></s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_2c7a5b38-01f9-4068-9d74-564681cdc40c.png?v=1606928232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold ring in diamonds. Size 7. Total diamond carat weight is 0.905 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4853151662127</id>
+      <title>7</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4844586565679</id>
+    <published>2020-11-28T14:52:04-06:00</published>
+    <updated>2020-11-28T14:52:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/luna-necklace"/>
+    <title>Luna Necklace</title>
+    <s:type>Necklaces</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_48bf4c9e-5efc-4ba6-b314-a7ee6c76d4d7.png?v=1606596774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Necklaces<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k white gold diamond &amp; emerald half crescent moon necklace with diamond chain detail. 16", 18" &amp; 20" adjustable clasp for necklace to be worn at any of these lengths. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>emeralds</s:tag>
+    <s:tag>necklaces</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4844586565679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4844566511663</id>
+    <published>2020-11-28T14:32:35-06:00</published>
+    <updated>2020-11-28T14:32:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/bria-earrings"/>
+    <title>Bria Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_41c4af9d-761d-4a41-b24c-9b45ad6332d4.png?v=1606595562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; diamond earrings. New to the Winter 2020 Collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>rosegold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4844566511663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

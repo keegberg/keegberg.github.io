@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/savage-elegance.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2015-08-04T22:45:00-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052221828</id>
+    <published>2015-08-04T22:45:00-05:00</published>
+    <updated>2015-08-04T22:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/charon-s-skull-ring"/>
+    <title>Charon&apos;s Skull Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r32.jpg?v=1448824587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ring is from my <em>Savage Elegance Collection</em>.</p>
+<p><strong>White coral</strong> skulls splashed in <strong>champagne diamonds</strong>, and covered in <strong>silver </strong>with<strong> black-rhodium </strong>finish. <strong>18-Karat yellow gold </strong>band. Sample size 7.</p>
+<blockquote>Pairs well with any ensemble that needs that slight touch of darkness.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052221828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052158980</id>
+    <published>2015-08-04T22:24:00-05:00</published>
+    <updated>2015-08-04T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/dementor-s-ring"/>
+    <title>Dementor&apos;s Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r31.jpg?v=1456459606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From my<em> Savage Elegance Collection</em>.<br><br>Tear drop <strong>Drusy</strong> surrounded by <strong>white diamonds</strong>, and <strong>18-Karat white gold</strong>. Size 7.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052158980</id>
+      <title>Dementor&apos;s Ring / Drusy/Diamond / Gold</title>
+      <s:price currency="USD">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051364740</id>
+    <published>2015-08-04T19:05:00-05:00</published>
+    <updated>2015-08-04T19:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/pallor-mortis-ring"/>
+    <title>Pallor Mortis Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Pallor_Mortis_Ring.jpg?v=1448824709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A <span style="color: #000000;">grave</span>, <span style="color: #bf9000;">three-headed</span> showstopper from my <em>Savage Elegance Collection</em>.</p>
+<p>Three <strong>Coral</strong> skulls encrusted in <strong>champagne diamonds</strong>, <strong>black-rhodium silver</strong>, and <strong>18-Karat yellow gold</strong> bands. Sample size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051364740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051310468</id>
+    <published>2015-08-04T18:57:00-05:00</published>
+    <updated>2015-08-04T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/post-mortem-ring"/>
+    <title>Post-Mortem Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r43.jpg?v=1449628139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            3000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rocker ring from my <em>Savage Elegance Collection</em>.</p>
+<p><strong>Champagne diamonds</strong>, <strong>coral</strong>, <strong>silver</strong> with <strong>black-rhodium</strong> finish, and <strong>18-Karat yellow gold</strong> band.</p>
+<h6><span style="color: #bf9000;">Rock on!</span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051310468</id>
+      <title>Post-Mortem Ring / Diamond/Coral / Silver/Gold</title>
+      <s:price currency="USD">3000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

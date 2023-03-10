@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/evening-wear.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2020-11-24T18:34:58-06:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835936075823</id>
+    <published>2020-11-24T18:34:58-06:00</published>
+    <updated>2020-11-24T18:34:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/eternity-band"/>
+    <title>Diamond Eternity Band</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_4f337800-cfca-4dc2-afc8-da04947d1b56.png?v=1606264503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            5055.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond eternity band set in all diamonds. Diamond weight is 2.42 carats. Size 6.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835936075823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5055.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807755396</id>
+    <published>2015-12-17T13:37:00-06:00</published>
+    <updated>2015-12-17T13:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/manisha-ring"/>
+    <title>Manisha Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/manisha-6.png?v=1456934173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>sapphires</strong>, <strong>spinel</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Sapphires &amp; spinel, 3.15tcw</li>
+<li>Champagne diamonds, 2.02cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807755396</id>
+      <title>Manisha Ring / Sapphire/Spinel/Diamond / Silver/Gold</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807460804</id>
+    <published>2015-12-17T13:35:00-06:00</published>
+    <updated>2015-12-17T13:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/nalini-ring"/>
+    <title>Nalini Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/nalini10.png?v=1456934047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>spinel</strong>, <strong>sapphires</strong>, and stunning<strong> champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Spinel, and sapphires, 5.45tcw</li>
+<li>Champagne diamonds, 1.33cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized. </li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807460804</id>
+      <title>Nalini Ring / Spinel/Sapphire/Diamond / Silver/Gold</title>
+      <s:price currency="USD">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

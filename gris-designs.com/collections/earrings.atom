@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/earrings.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2020-11-28T14:32:35-06:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/4844566511663</id>
+    <published>2020-11-28T14:32:35-06:00</published>
+    <updated>2020-11-28T14:32:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/bria-earrings"/>
+    <title>Bria Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_41c4af9d-761d-4a41-b24c-9b45ad6332d4.png?v=1606595562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; diamond earrings. New to the Winter 2020 Collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>rosegold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4844566511663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4844559761455</id>
+    <published>2020-11-28T13:56:02-06:00</published>
+    <updated>2020-11-28T13:56:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/avery-earrings"/>
+    <title>Avery Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9d676c7f-4fd7-4f3e-aec4-aa97b0cc3274.png?v=1606593369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            5600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold &amp; diamond earrings. Total diamond carat weight is 2.14 carats. Brand new to the winter 2020 collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4844559761455</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837945835567</id>
+    <published>2020-11-25T20:29:34-06:00</published>
+    <updated>2020-11-25T20:29:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/rayna-diamond-hoop-earrings"/>
+    <title>Rayna Diamond Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_778dd0c3-88fb-4936-a695-18429f2011d7.png?v=1606357778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            3100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold diamond baguette &amp; single diamond hoop earrings. Diamond carat weight is 1.028 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837945835567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837827018799</id>
+    <published>2020-11-25T19:17:30-06:00</published>
+    <updated>2020-11-25T19:17:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/esme-hoop-earrings"/>
+    <title>Esme Diamond Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_4da03c81-ef95-4bd5-bb0d-9d20ae79c440.png?v=1606353455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond hoop earrings. Diamond carat weight is 1.06 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837827018799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837788155951</id>
+    <published>2020-11-25T17:46:08-06:00</published>
+    <updated>2020-11-25T17:46:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/star-huggie-earrings"/>
+    <title>Star Huggie Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_0691a580-faae-4990-85dc-ce88e19a4925.png?v=1606347974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k yellow gold diamond star earrings. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837788155951</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837781045295</id>
+    <published>2020-11-25T17:26:13-06:00</published>
+    <updated>2020-11-25T17:26:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/harmony-ear-cuff"/>
+    <title>Harmony Ear Cuff</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_2684d3e5-5223-46f9-b20e-52596ca79b3a.png?v=1606346778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; pave diamond ear cuff. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837781045295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837737660463</id>
+    <published>2020-11-25T15:20:21-06:00</published>
+    <updated>2020-11-25T15:20:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/arielle-earrings"/>
+    <title>Arielle Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_82df8dd1-1ad2-49ae-9acb-fc6f31339fa2.png?v=1606339227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            3600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k yellow gold pave diamond earrings. Diamond carat weight is 2.43 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837737660463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837723799599</id>
+    <published>2020-11-25T14:53:07-06:00</published>
+    <updated>2020-11-25T14:53:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/chain-link-hoops"/>
+    <title>Chain Link Diamond Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_dea9f519-bbf7-4c54-b952-895e6a946378.png?v=1606337592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k <em><strong>rose gold</strong> </em>diamond chain link hoop earrings. Diamond weight is 0.44 carats. <br><br></p>
+<p>18k <em><strong>green rhodium</strong> </em>colored earrings with diamonds. Diamond weight is 0.44 carats. <br><br></p>
+<meta charset="UTF-8">
+<p><span>18k <strong><em>black rhodium</em></strong> colored earrings with diamonds. Diamond weight is 0.44 carats. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837723799599</id>
+      <title>Green Rhodium</title>
+      <s:price currency="USD">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837723799599</id>
+      <title>Black Rhodium</title>
+      <s:price currency="USD">2800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837711544367</id>
+    <published>2020-11-25T14:29:04-06:00</published>
+    <updated>2020-11-25T14:29:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/half-crescent-moon-earring"/>
+    <title>Half Crescent Moon Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_ad7137ac-fb4e-46fa-bcdc-15768144a27a.png?v=1606336161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>14k white gold diamond crescent moon earrings with diamond chain detail. <br><br></p>
+<p>14k rose gold is available as well for same pricing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837711544367</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837708791855</id>
+    <published>2020-11-25T14:20:28-06:00</published>
+    <updated>2020-11-25T14:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/medium-hoop-earring"/>
+    <title>Medium Diamond Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_ec067d3d-112a-4f09-b4f7-c199d6bc9e60.png?v=1606335634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond hoop earrings. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837708791855</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837706104879</id>
+    <published>2020-11-25T14:10:12-06:00</published>
+    <updated>2020-11-25T14:10:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/sydney-earrings"/>
+    <title>Sydney Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_2b5efb73-7576-49d0-8e38-910064f44322.png?v=1606335017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold earrings with pink sapphires &amp; diamonds. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837706104879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837700141103</id>
+    <published>2020-11-25T13:58:07-06:00</published>
+    <updated>2020-11-25T13:58:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/london-earrings"/>
+    <title>London Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_7f913954-1528-40b3-b965-dd375ec2593b.png?v=1606334317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold earrings set in pave diamonds. <br><br></p>
+<p>18k white gold &amp; yellow gold are available for same pricing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837700141103</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837698699311</id>
+    <published>2020-11-25T13:51:45-06:00</published>
+    <updated>2020-11-25T13:51:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/hoop-earrings"/>
+    <title>Skinny Diamond Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_cb815401-5331-43aa-8ee6-8cd69c8207c0.png?v=1606333910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold diamond hoop earrings. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837698699311</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837692342319</id>
+    <published>2020-11-25T13:33:10-06:00</published>
+    <updated>2020-11-25T13:33:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/half-crescent-earrings"/>
+    <title>Half Crescent Moon Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_88c2ac19-3082-49de-894c-342078c0b7f0.png?v=1606332796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1785.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond half crescent moon earrings. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837692342319</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1785.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837673533487</id>
+    <published>2020-11-25T13:01:19-06:00</published>
+    <updated>2020-11-25T13:01:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/zig-zag-ear-climber-earrings"/>
+    <title>Zig Zag Ear Climber Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_218ef17e-2ac4-4d4b-84d0-c8df6716259b.png?v=1606330884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; diamond ear climber earrings that attach to your earring hole &amp; then clasp onto the middle side of your ear! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837673533487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837561532463</id>
+    <published>2020-11-25T11:58:06-06:00</published>
+    <updated>2020-11-25T11:58:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/arya-earrings"/>
+    <title>Arya Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9c3c2fb7-7fb1-404c-9bdb-71ac51488742.png?v=1606327093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k white gold drop earrings in pave diamonds. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837561532463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836204970031</id>
+    <published>2020-11-24T20:46:08-06:00</published>
+    <updated>2020-11-24T20:46:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/amelia-earrings"/>
+    <title>Amelia Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_365179fe-7e9c-4e3e-89c2-1bb5a325eeff.png?v=1606272372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2868.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold pave diamond earrings. New to the Winter|2020 collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836204970031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2868.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836120854575</id>
+    <published>2020-11-24T20:02:16-06:00</published>
+    <updated>2020-11-24T20:02:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diamond-huggie-hoops"/>
+    <title>Diamond Huggie Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_ef7cbda4-cf8f-406c-a05b-6a9e5649a361.png?v=1606269742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold pave diamond huggie hoop earrings. A part of the new Winter|2020 collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836120854575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836072390703</id>
+    <published>2020-11-24T19:35:18-06:00</published>
+    <updated>2020-11-24T19:35:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/clara-earrings"/>
+    <title>Clara Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_de97b3aa-3a67-4846-9c15-d60375e8d8e6.png?v=1606268125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1876.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond earrings &amp; these are a part of the new Winter|2020 collection. <br><br></p>
+<p>14k yellow gold is available as well for the same price!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>earrings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836072390703</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1876.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835956588591</id>
+    <published>2020-11-24T18:43:08-06:00</published>
+    <updated>2020-11-24T18:43:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/star-studded-earrings"/>
+    <title>Star Studded Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_12e53981-db93-40eb-9789-7b0106d35f86.png?v=1606264994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold star earrings set in pave diamonds. New from the Winter|2020 collection. <br><br></p>
+<p>18k white gold available for same pricing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835956588591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835923853359</id>
+    <published>2020-11-24T18:29:09-06:00</published>
+    <updated>2020-11-24T18:29:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diamond-huggie-hoop-earrings"/>
+    <title>Diamond Huggie Hoop Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_a19f23cd-9c51-4ff2-937b-cc435da3a057.png?v=1606264154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold pave diamond huggie hoop earrings. A part of the new Winter|2020 collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835923853359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835850420271</id>
+    <published>2020-11-24T17:34:27-06:00</published>
+    <updated>2020-11-24T17:34:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/studly-pave-diamond-earrings"/>
+    <title>Studly Pave Diamond Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_804c755c-a631-40ef-befc-c05867b6b741.png?v=1606260873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            1452.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose gold 14k pave diamond stud earrings that are a part of the new Winter|2020 collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835850420271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1452.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1278288724015</id>
+    <published>2019-06-29T21:53:16-05:00</published>
+    <updated>2019-06-29T21:53:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/lc-2019-21"/>
+    <title>Sienna Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/LC_2019-21.jpg?v=1561863999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            6124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beauties are apart of the <em><strong>SUMMER COLLECTION | 2021</strong></em></p>
+<p><em></em>Iced out in pave diamonds &amp; 14k rose gold. </p>
+<p>DWT: 1.53 </p>
+<p>GWT: 5.89</p>
+<p>14K: 5.58</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1278288724015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6124.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1278283841583</id>
+    <published>2019-06-29T21:47:48-05:00</published>
+    <updated>2019-06-29T21:47:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/lc-2019-18"/>
+    <title>Delilah Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/LC_2019-18.jpg?v=1561863146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            840.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These stunners are a part of the Summer Collection | 2021.</p>
+<p>14k rose gold splashed in diamonds with chain detail.  <em><strong>An LC favorite.</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>earrings</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1278283841583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">840.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1278282956847</id>
+    <published>2019-06-29T21:42:42-05:00</published>
+    <updated>2019-06-29T21:42:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/lc-2019-16"/>
+    <title>Aurora Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/LC_2019-16.jpg?v=1561862803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beauties are a part of my <i>Winter Collection | 2020.</i></p>
+<p>14k rose gold and splashed in diamonds. <span>The perfect everyday staple earring.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1278282956847</id>
+      <title>Aurora Earrings / Diamond / Gold</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

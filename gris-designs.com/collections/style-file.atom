@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/style-file.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2015-08-04T22:08:00-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/1052093508</id>
+    <published>2015-08-04T22:08:00-05:00</published>
+    <updated>2015-08-04T22:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/edge-of-glory-earrings"/>
+    <title>Edge of Glory Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e16.jpg?v=1456459602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fascinating pair is from my <em>Femme Fatale Collection</em>.</p>
+<p><strong>Rutliated quartz</strong> with <strong>champagne diamonds</strong> all around. <strong>Silver</strong>, <strong>black-rhodium </strong>finish, and <strong>18-Karat yellow gold</strong> backing.</p>
+<blockquote>
+<h6>Worn by Carrie Preston at Critics' Choice TV Awards June 2012.</h6>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1052093508</id>
+      <title>Edge of Glory Earrings / Quartz/Diamond / Silver/Gold</title>
+      <s:price currency="USD">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051581444</id>
+    <published>2015-08-04T19:52:00-05:00</published>
+    <updated>2015-08-04T19:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/humphrey-bass-affair-earrings"/>
+    <title>Humphrey-Bass Affair Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/e37.jpg?v=1448824659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beauties are from my <em>Full Regalia Collection</em>.</p>
+<p><strong>White</strong>, <strong>yellow</strong>, and <strong>pink opals</strong>. <strong>C</strong><strong>hampagne diamonds</strong>, <strong>silver</strong> with <strong>black-rhodium</strong> finish, and <strong>18-Karat yellow gold</strong> backing.</p>
+<h6><em> Featured in Marie Claire Turkey.</em></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051581444</id>
+      <title>Humphrey-Bass Affair Earrings / Opal/Diamond / Silver/Gold</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051410948</id>
+    <published>2015-08-04T19:13:00-05:00</published>
+    <updated>2015-08-04T19:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/miranda-earrings"/>
+    <title>Miranda Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Girlz_in_Sahara_Earrings.jpg?v=1448824697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous earrings from my<em> Saharan Excursion Collection</em>.</p>
+<p><strong>Tourmaline</strong> and <strong>multicolored diamond</strong> teardrop earrings set in <strong>rhodium</strong> and <strong>18-Karat yellow gold</strong> posts.</p>
+<h6><span style="color: #a64d79;"><em>Miranda Lambert wore these stunners during the 2012 Super Bowl!</em></span></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051410948</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1051329476</id>
+    <published>2015-08-04T19:00:00-05:00</published>
+    <updated>2015-08-04T19:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/pave-bow-ring"/>
+    <title>Pavé Bow Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/r5.jpg?v=1448824708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Something sweet from my <em>Femme Fatale Collection</em>. Make a statement with this blinged out bow at any occasion. </p>
+<p><strong>White diamonds</strong> and <strong>14-Karat white gold</strong>. Sample size 6.5. </p>
+<h6>Featured in InStyle March 2012 on Rose Byrne and Ocean Drive March 2012 on Nicole Richie.</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1051329476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

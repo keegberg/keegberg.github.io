@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/pretty-rich.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2017-10-10T22:01:13-05:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/12078224388</id>
+    <published>2017-10-10T22:01:13-05:00</published>
+    <updated>2017-10-10T22:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/amara-earrings"/>
+    <title>Amara Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/Lauren_Craft_800.jpg?v=1507692307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 2">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>These statement earrings are set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with<strong> aquamarines</strong>, <strong>sapphires</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+<div class="product-bullets">
+<ul>
+<li>Aquamarines &amp; sapphires, 36.17tcw</li>
+<li>Champagne diamonds, 1.99cts</li>
+<li>Made in India</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/12078224388</id>
+      <title>Amara Earrings / Aquamarine/Sapphire/Diamond / Silver/Gold</title>
+      <s:price currency="USD">2500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6232208708</id>
+    <published>2016-07-08T17:21:00-05:00</published>
+    <updated>2016-07-08T17:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/goda-ring"/>
+    <title>NoHo Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/goda-ring.jpg?v=1468017584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>pink sapphires </strong>and stunning<strong> diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Pink Sapphires, 3.25tcw</li>
+<li>Diamond weight, .40cts</li>
+<li>Made in India</li>
+<li>Fit: Size 7</li>
+<li>One of a kind</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6232208708</id>
+      <title>NOHO Ring / Sapphire/Diamond / Pink</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/6232106884</id>
+    <published>2016-07-08T16:52:00-05:00</published>
+    <updated>2016-07-08T16:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/maya-ring-1"/>
+    <title>Maya Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/maya-ring.jpg?v=1468015099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>pink tourmalines</strong>, <strong>pink sapphires</strong>, and stunning<strong> diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Pink Tourmalines and pink sapphires, 4.23tcw</li>
+<li>Diamonds, 1.50cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized.</li>
+<li>One of a kind </li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/6232106884</id>
+      <title>Maya Ring / Tourmaline/Sapphire/Diamond / Pink</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4504356484</id>
+    <published>2016-03-02T20:25:00-06:00</published>
+    <updated>2016-03-02T20:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/lauren-earrings"/>
+    <title>Geometric Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/laurenearrings55440.png?v=1456971899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc"><span><em>These statement earrings are made to order. From purchase date they will arrive to you within 4 to 6 weeks.</em> </span></div>
+<div class="product-desc">
+<p> </p>
+</div>
+<p>These beauties are from my <em>Pretty Rich Collection.</em></p>
+<p>Splashed in diamonds these stunners are wearable on any occasion. </p>
+<p>14k yellow gold &amp; diamonds.</p>
+<p>Diamond weight: .94</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4504356484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4504449796</id>
+    <published>2016-03-02T09:01:00-06:00</published>
+    <updated>2016-03-02T09:01:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/roxana-ring"/>
+    <title>Roxana Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/roxanne-ring-1.png?v=1456933386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            2600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ring <span>features a multi-strands of pink sapphires and diamonds, fashioned in 18K yellow gold with silver.</span></p>
+<ul>
+<li>Slips on Pink sapphires, 3.14ctw</li>
+<li>Diamonds, 1.54ctw</li>
+<li>18K yellow gold &amp; silver</li>
+<li>Made in India</li>
+<li>Fit: This item measures: 2.1in L</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4504449796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807237956</id>
+    <published>2015-12-17T13:36:00-06:00</published>
+    <updated>2015-12-17T13:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/kaur-ring"/>
+    <title>Kaur Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/kaur-ring-3.png?v=1456934454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p>This statement ring is set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>spinel</strong>, <strong>quartz</strong>, <strong>moonstone</strong>, and stunning <strong>champagne diamonds</strong>.</p>
+</div>
+<div class="product-bullets">
+<ul>
+<li>Spinel, quartz, and moonstone, 20.34tcw</li>
+<li>Champagne diamonds, 0.54cts</li>
+<li>Made in India</li>
+<li>Fit: This item is sized. </li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:tag>thereitis</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807237956</id>
+      <title>Kaur Ring / Spinel/Quartz/Moonstone/Diamond / Silver/Gold</title>
+      <s:price currency="USD">1800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/3807077892</id>
+    <published>2015-12-17T13:29:00-06:00</published>
+    <updated>2015-12-17T13:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/kanta-earrings"/>
+    <title>Kanta Earrings</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/amita_earrings_512.png?v=1449440169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-desc">
+<p> These statement earrings are set in <strong>18-Karat yellow gold</strong> and <strong>silver</strong> and studded with <strong>peach coral</strong>, <strong>spinel</strong>, <strong>pink sapphires</strong> and stunning <strong>champagne diamonds</strong>.</p>
+<ul>
+<li>Peach coral, peach spinel, pink sapphires, 15.05tcw</li>
+<li>Champagne diamonds, 1.96cts</li>
+<li>Made in India</li>
+<li>Fit: This item measures 2.125in (5.4cm) in length.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver &amp; Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/3807077892</id>
+      <title>Kanta Earrings / Coral/Spinel/Sapphire / Silver/Gold</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/1920281796</id>
+    <published>2015-10-22T11:28:00-05:00</published>
+    <updated>2015-10-22T11:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/glam-it-up-ring"/>
+    <title>Glam It Up Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/prettyrich1.png?v=1448824620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Peach coral</strong> and <strong>diamond</strong> double head ring finished in 18k yellow gold and silver. Size 7.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>Gemstone</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/1920281796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

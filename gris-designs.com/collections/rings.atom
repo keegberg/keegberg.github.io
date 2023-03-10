@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.laurencraft.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.laurencraft.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.laurencraft.com/collections/rings.atom"/>
+  <title>Lauren Craft Collection</title>
+  <updated>2020-11-25T19:39:16-06:00</updated>
+  <author>
+    <name>Lauren Craft Collection</name>
+  </author>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837843533871</id>
+    <published>2020-11-25T19:39:16-06:00</published>
+    <updated>2020-11-25T19:39:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diamond-eternity-ring"/>
+    <title>Diamond Eternity Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_6520769c-6df9-42b9-ab21-918ecbfaad1c.png?v=1606354761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            4160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond eternity ring. Size 7. Diamond carat weight is 1.13 carats. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837843533871</id>
+      <title>7</title>
+      <s:price currency="USD">4160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837781897263</id>
+    <published>2020-11-25T17:30:22-06:00</published>
+    <updated>2020-11-25T17:30:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/flower-ring"/>
+    <title>Flower Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_c7cf70cb-8bb7-459c-92f8-baf3268b11bb.png?v=1606347027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            765.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold pave diamond flower ring. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837781897263</id>
+      <title>7</title>
+      <s:price currency="USD">765.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837759877167</id>
+    <published>2020-11-25T16:22:47-06:00</published>
+    <updated>2020-11-25T16:22:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/scarlett-ring"/>
+    <title>Scarlett Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_e5451730-d0bf-47d2-8b32-fa5d20a8aea3.png?v=1606342973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k ring in pave diamonds &amp; baguettes. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837759877167</id>
+      <title>7</title>
+      <s:price currency="USD">1050.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837720621103</id>
+    <published>2020-11-25T14:47:02-06:00</published>
+    <updated>2020-11-25T14:47:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/camille-ring"/>
+    <title>Camille Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_de37a7a5-cdca-4220-8248-37fe08376011.png?v=1606337228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold emerald &amp; diamond ring. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837720621103</id>
+      <title>7</title>
+      <s:price currency="USD">2650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837701386287</id>
+    <published>2020-11-25T14:03:14-06:00</published>
+    <updated>2020-11-25T14:03:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/kayla-ring"/>
+    <title>Kayla Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_21aec2b5-dddf-4d81-9491-951eae3a7076.png?v=1606334601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold ring with diamonds &amp; multi colored sapphires. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837701386287</id>
+      <title>7</title>
+      <s:price currency="USD">2200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837637586991</id>
+    <published>2020-11-25T12:39:22-06:00</published>
+    <updated>2020-11-25T12:39:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/alina-ring"/>
+    <title>Alina Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_d4f84f62-7f7c-46a2-b3eb-360ac24c8332.png?v=1606329566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold ring with diamonds. Size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837637586991</id>
+      <title>7</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837596004399</id>
+    <published>2020-11-25T12:17:15-06:00</published>
+    <updated>2020-11-25T12:17:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/isabelle-ring"/>
+    <title>Isabelle Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_e58f48cf-b35e-44a6-8ca2-74d15b2ab28c.png?v=1606328240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose, yellow or white gold ring with diamonds. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>fine jewelry</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>White Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837596004399</id>
+      <title>7</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837581094959</id>
+    <published>2020-11-25T12:08:29-06:00</published>
+    <updated>2020-11-25T12:08:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/athena-ring"/>
+    <title>Athena Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_2f070532-a4ea-427a-a524-76a48b8bc6d6.png?v=1606327715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold black rhodium ring with diamonds. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837581094959</id>
+      <title>7</title>
+      <s:price currency="USD">1550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837499338799</id>
+    <published>2020-11-25T11:26:33-06:00</published>
+    <updated>2020-11-25T11:26:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/gianna-ring"/>
+    <title>Gianna Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_3df870a6-40db-4eb5-91d5-d24efdfda918.png?v=1606325198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose, yellow &amp; white gold pave diamond ring. Available in size 6 or 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837499338799</id>
+      <title>7</title>
+      <s:price currency="USD">1400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837481447471</id>
+    <published>2020-11-25T11:18:45-06:00</published>
+    <updated>2020-11-25T11:18:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/cora-ring"/>
+    <title>Cora Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_0dbdf124-739d-4955-b0b7-2267534f2077.png?v=1606324730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k ring with baguettes &amp; diamonds available in rose gold, yellow gold &amp; white gold. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837481447471</id>
+      <title>7</title>
+      <s:price currency="USD">1300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837462736943</id>
+    <published>2020-11-25T11:09:03-06:00</published>
+    <updated>2020-11-25T11:09:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/miracles-ring"/>
+    <title>Miracles Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_38d6cc97-29e6-4aa7-968e-f97f3d445592.png?v=1608133939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold &amp; diamond ring. Size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837462736943</id>
+      <title>7</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837433376815</id>
+    <published>2020-11-25T10:55:19-06:00</published>
+    <updated>2020-11-25T10:55:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/eliana-ring"/>
+    <title>Eliana Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_a94b17cb-c31f-442b-b8b3-f30f38885ec9.png?v=1606323356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k yellow gold ring with baguettes &amp; pave diamonds. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837433376815</id>
+      <title>7</title>
+      <s:price currency="USD">1100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837382651951</id>
+    <published>2020-11-25T10:30:51-06:00</published>
+    <updated>2020-11-25T10:30:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/chloe-ring"/>
+    <title>Chloe Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_117b233a-658b-4d3f-82a4-4e5621a93542.png?v=1606321857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            780.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold, diamond baguettes &amp; pave diamonds. Size 6.5 or 7. </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837382651951</id>
+      <title>7</title>
+      <s:price currency="USD">780.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4837249876015</id>
+    <published>2020-11-25T09:40:19-06:00</published>
+    <updated>2020-11-25T09:40:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/ella-ring"/>
+    <title>Ella Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_092b02f1-aced-4d6d-b69a-7ba7363f7edb.png?v=1606321947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k white gold &amp; bauguette &amp; pave diamond ring. Size 7. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diamonds</s:tag>
+    <s:tag>rings</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4837249876015</id>
+      <title>7</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836295016495</id>
+    <published>2020-11-24T21:26:46-06:00</published>
+    <updated>2020-11-24T21:26:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/aria-ring"/>
+    <title>Aria Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9576c73b-52fc-4303-a898-894dd7b9943a.png?v=1606274812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold baugette &amp; diamond ring. Total diamond carat weight is 0.758 carats. Size 7. Also available in 14k yellow gold &amp; 14k white gold. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836295016495</id>
+      <title>7</title>
+      <s:price currency="USD">1420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836230234159</id>
+    <published>2020-11-24T20:56:51-06:00</published>
+    <updated>2020-11-24T20:56:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/karli-ring"/>
+    <title>Amalfi Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_57d09a80-b2d9-42bc-b8e5-2d8ae53ed5a0.png?v=1606273016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold with baguettes &amp; pave diamonds. Size 7.</p>
+<p>Also available in 14k white &amp; yellow gold for same pricing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836230234159</id>
+      <title>7</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836186685487</id>
+    <published>2020-11-24T20:36:46-06:00</published>
+    <updated>2020-11-24T20:36:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/jakarta-ring"/>
+    <title>Jakarta Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_ede905d9-04e4-4c59-a57d-0d87a98c7bcf.png?v=1606271812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k rose gold ring in baugette &amp; pave diamonds &amp; brand new to the Winter|2020 collection. Size 6. <br><br></p>
+<p>Available in 18k yellow gold for same pricing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836186685487</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836167876655</id>
+    <published>2020-11-24T20:26:19-06:00</published>
+    <updated>2020-11-24T20:26:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/dripped-out-in-diamonds-ring"/>
+    <title>Dripped out in diamonds ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_89f0a28e-ef00-4efa-9883-cd7a749759b4.png?v=1606271184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1716.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold ring set in pave diamonds. Size 6. <br><br></p>
+<p>14k Yellow gold &amp; 14k white gold are available for same pricing! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836167876655</id>
+      <title>7</title>
+      <s:price currency="USD">1716.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836101816367</id>
+    <published>2020-11-24T19:52:36-06:00</published>
+    <updated>2020-11-24T19:52:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/zig-zag-diamond-band"/>
+    <title>Zig Zag Diamond Band</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_9dcc56f3-276e-4786-b181-2c73f2875fb8.png?v=1606269262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This diamond band has diamonds half way around the band. It is in 18k white gold with pave diamonds. Ring size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836101816367</id>
+      <title>Default Title</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4836021239855</id>
+    <published>2020-11-24T19:11:34-06:00</published>
+    <updated>2020-11-24T19:11:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/daphnie-ring"/>
+    <title>Daphine Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_421504ec-b13c-42ec-a3bf-13bcef4ff7ca.png?v=1606266700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold ring splashed in diamonds! New from the Winter|2020 collection. Size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4836021239855</id>
+      <title>7</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835991060527</id>
+    <published>2020-11-24T18:58:27-06:00</published>
+    <updated>2020-11-24T18:58:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/julia-ring"/>
+    <title>Julia Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_2b6df749-4249-498c-ad91-56d95a2f7754.png?v=1606320240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond ring set in pave diamonds. Size 7. <br><br></p>
+<p>Available in 14k white gold &amp; yellow gold as well. Same pricing &amp; size 7.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835991060527</id>
+      <title>7</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835971629103</id>
+    <published>2020-11-24T18:50:38-06:00</published>
+    <updated>2020-11-24T18:50:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/diamond-link-ring"/>
+    <title>Diamond Link Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_ba6f3b49-9865-429c-9428-5bef1b3a815f.png?v=1606321300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond link ring set in pave diamonds. Size 7. <br><br>Also, it is available in 18k rose &amp; yellow gold with custom sizing. </p>
+<p>This ring is made to order. Delivery time is 4 weeks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835971629103</id>
+      <title>7</title>
+      <s:price currency="USD">1228.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835936075823</id>
+    <published>2020-11-24T18:34:58-06:00</published>
+    <updated>2020-11-24T18:34:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/eternity-band"/>
+    <title>Diamond Eternity Band</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_4f337800-cfca-4dc2-afc8-da04947d1b56.png?v=1606264503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            5055.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>18k white gold diamond eternity band set in all diamonds. Diamond weight is 2.42 carats. Size 6.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835936075823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5055.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835902488623</id>
+    <published>2020-11-24T18:19:34-06:00</published>
+    <updated>2020-11-24T18:19:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/nicola-diamond-ring"/>
+    <title>Nicola Diamond Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_8f228a6d-9700-4539-883e-dd1eac12c293.png?v=1606263580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            1035.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k rose gold diamond 3 band ring all in one! Size 6. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diamond</s:tag>
+    <s:tag>rings</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835902488623</id>
+      <title>7</title>
+      <s:price currency="USD">1035.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.laurencraft.com/products/4835883909167</id>
+    <published>2020-11-24T18:11:23-06:00</published>
+    <updated>2020-11-24T18:11:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.laurencraft.com/products/double-band-diamond-ring"/>
+    <title>Double Band Diamond Ring</title>
+    <s:type>Rings</s:type>
+    <s:vendor>Lauren Craft Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0946/4110/products/image_47685bd9-17d6-4dc4-a1a4-3e946da0ebc2.png?v=1606263088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lauren Craft Collection<br>
+        <strong>Type: </strong>Rings<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14k yellow gold diamond ring brand new from the Winter|2020 collection. Size 6. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.laurencraft.com/products/4835883909167</id>
+      <title>7</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
